@@ -48,6 +48,8 @@
 
 <img align="left" alt="Abin-Septian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abin-Septian&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Septiandaru&layout=compact)](https://github.com/Abin-Septian)
+
 
 [twitter]: https://twitter.com/AbinSeptiandaru
 [instagram]: https://instagram.com/abin_septiandaru
