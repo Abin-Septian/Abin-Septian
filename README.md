@@ -44,7 +44,7 @@
 
 ### GitHub Stats
 
-<summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
 <img align="left" alt="Abin-Septian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abin-Septian&show_icons=true&hide_border=true" />
 
