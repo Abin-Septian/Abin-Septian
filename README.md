@@ -1,10 +1,10 @@
-### Hi there, I'm Bintang  :star: 👋
+### Hi there, I'm Bintang :star: 👋
 
 ## I'm a Husband, Father, and Developer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+-   🌱 I’m currently learning everything 🤣
+-   👯 I’m looking to collaborate with other content creators
+-   🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
@@ -46,10 +46,9 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="Abin-Septian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abin-Septian&show_icons=true&hide_border=true" />
+<img align="left" alt="Abin-Septian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abin-Septian&show_icons=true&hide_border=true&count_private=true&theme=vue-dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Septian&layout=compact)](https://github.com/Abin-Septian)
-
 
 [twitter]: https://twitter.com/AbinSeptiandaru
 [instagram]: https://instagram.com/abin_septiandaru
