@@ -46,7 +46,7 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="Abin-Septian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abin-Septian&theme=vue-dark&show_icons=true&count_private=true" />
+<img align="left" alt="Abin-Septian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abin-Septian&theme=dark&show_icons=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Septian&layout=compact)](https://github.com/Abin-Septian)
 
