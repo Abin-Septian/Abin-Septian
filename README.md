@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abin-Septian Spotify Playing" width="350" />](https://open.spotify.com/user/55vogosddls2g3hc9pym7p36c)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abin-Septian Spotify Playing" width="350" />](https://open.spotify.com/user/21c5kz24gzpxim643hmx72d7y)
 
 ### Connect with me:
 
